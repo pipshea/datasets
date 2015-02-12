@@ -1,0 +1,27 @@
+Country or Area,ISO country code,Year,Aid as % of gross national income,"Aid, $m"
+Australia,AU,2007,0.32,2668.52
+Austria,AT,2007,0.50,1808.46
+Belgium,BE,2007,0.43,1952.83
+Canada,CA,2007,0.29,4079.69
+Denmark,DK,2007,0.81,2562.23
+Finland,FI,2007,0.39,981.34
+France,FR,2007,0.38,9883.59
+Germany,DE,2007,0.37,12290.7
+Greece,GR,2007,0.16,500.82
+Ireland,IE,2007,0.55,1192.15
+Italy,IT,2007,0.19,3970.62
+Japan,JP,2007,0.17,7678.95
+Luxembourg,LU,2007,0.91,375.53
+Netherlands,NL,2007,0.81,6224.26
+New Zealand,NZ,2007,0.27,319.8
+Norway,NO,2007,0.95,3728.02
+Portugal,PT,2007,0.22,470.54
+Spain,ES,2007,0.37,5139.8
+Sweden,SE,2007,0.93,4338.94
+Switzerland,CH,2007,0.37,1689.16
+United Kingdom,GB,2007,0.36,9848.54
+United States,US,2007,0.16,21786.9
+,,,,
+,,,,
+SOURCE,http://www.guardian.co.uk/data-store/global-development-data/dataset/net-oda-as-percentage-of-oecddac-donors-gni-oecd,,,
+,http://www.guardian.co.uk/data-store/global-development-data/dataset/net-oda-million-us-oecd,,,

@@ -1,0 +1,27 @@
+,1,2,3,4
+Electric / Thermal Power output (MW),460 / 1380,784 / 2381,784 / 2381,784 / 2381
+Type of Reactor,BWR-3,BWR-4,BWR-4,BWR-4
+Operation Status at the earthquake occurred ,In Service -> Shutdown,In Service -> Shutdown,In Service -> Shutdown,Outage
+Core and Fuel Integrity,Damaged (400) Core Melt,Damaged (548)  Core Melt,Damaged (548)  Core Melt,No fuel rods
+PCV structural integrity ,Limited damage and leakage,Unknown,Unknown,Not Damaged
+RPV structural integrity,Damage and leakage Suspected,Damage and leakage Suspected,Damage and leakage Suspected,Not Damaged
+Core cooling ,Not Functional,Not Functional,Not Functional,Not neccessary
+Building Integrity,Severely Damaged ,Partly Opened,Severely Damaged ,Severely Damaged 
+Water injection to core (Accident Management),Continuing (Switch from seawater to Freshwater),Continuing (Switch from seawater to Freshwater),Continuing (Switch from seawater to Freshwater),Not neccessary
+Circulation cooling with HX,Planned ,In Operation,Planned,Planned
+Fuel Integrity in the spent fuel pool ,Unknown,Unknown,Unknown,Unknown
+SFP Cooling,Not Functional,Not Functional,Not Functional,Not Functional
+INES LEVEL (est by NISA),"Level 7* ※Cumulative amount of radioactivity from Fukushima Diichi NPS has reached the level to be classified as level 7.
+Total amount of radioactive material released to the environment in this accident is one tenth as much as one in the Chernobyl accident so far.",7,7,3
+Environmental effect in the vicinity of the station,"-Air dose rate: 5～121μSv/h at the NPS border （Monitoring Post),　366μSv/h at the south side of the office building,　14μSv/h at
+the wet gate　[6/7 09:00]
+-Some radioactive materials (I, Cs, Pu, Am Cm and Sr) has been detected in the soil sampled at the site.
+Radioactive materials have been detected in samples corrected from underground water and also seawater at or near the site.
+Environmental monitoring has been enhanced [4/16-]。",,,
+Evacuation,"<1> Shall be evacuated for within 3km from NPS, Shall stay indoors for within 10km from NPS (issued at 21:23, Mar. 11th) <2> Shall be evacuated for within 10km from NPS (issued at 05:44, Mar. 12th)
+<3> Shall be evacuated for within 20km from NPS (issued at 18:25, Mar. 12th) <4> Shall stay indoors (issued at 11:00, Mar. 15th), Should consider leaving (issued at 11:30, Mar. 25th) for from 20km to 30km from NPS　<5>The 20km evacuation zone
+around the Fukushima Daiichi NPS is to be expanded so as to include the area, where annual radiation exposure is expected to be above 20mSv. People in the expanded zone are ordered to evacuate within a month or so. People living in the 20 to
+30km and other than the expanded evacuation area mentioned above, are asked to get prepared for staying indoors or evacuation in an emergency (announced on Apr. 11th and issued on Apr. 22nd).",,,
+Radiation exposure of the workers,"30 workers has been exposed to radiation more than 100 mSv as of 5/30. It was found that two plant operators had taken in high level
+of radioactive iodine into the body. Evaluation made by a research institute shows that their exposure dose is somewhere between
+200mSv and 580mSv. [announced by TEPCO on 6/3] *Emergency exposure dose limit has been set to 250mSv",,,
